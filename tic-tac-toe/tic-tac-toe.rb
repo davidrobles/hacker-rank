@@ -1,8 +1,6 @@
-
-#####################
-# David Robles      #
-# drobles@gmail.com #
-#####################
+###################################
+# David Robles <drobles@gmail.com #
+###################################
 
 class TicTacToe
 
